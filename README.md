@@ -1,7 +1,11 @@
 # CSharp-Calculator
 A simple calculator application developed with C# and Windows Forms.
 # C# Calculator
+## Screenshot
 
+<p align="center">
+  <img src="screenshots/calculator.png" alt="Calculator Screenshot" width="600">
+</p>
 ## 🇮🇷 فارسی
 
 یک برنامه ماشین حساب ساده با رابط کاربری Windows Forms که با زبان C# توسعه داده شده است.

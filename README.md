@@ -4,7 +4,7 @@ A simple calculator application developed with C# and Windows Forms.
 ## Screenshot
 
 <p align="center">
-  <img src="screenshots/calculator.png" alt="Calculator Screenshot" width="600">
+  <img src="calculator.png" alt="Calculator Screenshot" width="600">
 </p>
 ## 🇮🇷 فارسی
 
